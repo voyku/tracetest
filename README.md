@@ -5,7 +5,7 @@
  
 下载脚本并直接运行
 ````
-wget -O test.sh https://raw.githubusercontent.com/voyku/jcnfbesttrace/main/test.sh && chmod 755 test.sh &&./test.sh
+wget -O test.sh https://raw.githubusercontent.com/voyku/tracetest/main/test.sh && chmod 755 test.sh &&./test.sh
 ````
 运行脚本（再次检查仅需运行下面代码）
 
